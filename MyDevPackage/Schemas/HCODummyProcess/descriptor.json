@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "b0db34ff-3fae-41a3-a0e8-df44103e768a",
+    "Name": "HCODummyProcess",
+    "ModifiedOnUtc": "\/Date(1693422270000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "My Dummy Process"
+  }
+}
